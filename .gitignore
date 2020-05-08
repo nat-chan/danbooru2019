@@ -131,3 +131,4 @@ dmypy.json
 metadata/
 512px/
 sim_pured/
+*.dat
